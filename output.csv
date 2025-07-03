@@ -1,0 +1,8 @@
+File Name,Component Name,Short Description,Socket Type
+DS2401.pdf,DS2401,"The DS2401 is a low-cost silicon serial number device providing a guaranteed unique 64-bit ROM ID for absolute traceability via a minimalist 1-Wire interface requiring only a single data lead and ground. It supports multiple packages including TO-92, SOT-223, TSOC, Flip Chip, and WLP.","TO-92, SOT-223, TSOC, Flip Chip, WLP"
+DS2405.pdf,DS2405,"The DS2405 Addressable Switch is an open drain N-channel transistor controlled via a unique 64-bit factory-lasered registration number over a 1-Wire bus, allowing independent on/off switching and logic level sensing of multiple devices on a common bus.","TO-92, SOT-223, 6-pin TSOC"
+DS2406.pdf,DS2406,"The DS2406 is a dual addressable switch plus 1Kb memory device with open drain PIO pins controlled via a 1-Wire bus. It features 1024-bit OTP EPROM, unique 64-bit ID, supports conditional search, and comes in TO-92 and 6-pin TSOC packages.","TO-92, 6-pin TSOC"
+DS2413.pdf,DS2413,The DS2413 is a dual-channel programmable I/O 1-Wire chip with open-drain outputs supporting up to 20mA sink current and 28V operating voltage. It communicates via a single-wire interface and features unique 64-bit ROM for device addressing.,"TSOC,TDFN"
+DS2431.pdf,DS2431,"The DS2431 is a 1024-bit, 1-Wire EEPROM chip organized as four memory pages of 256 bits each. It features individual page write protection, EPROM-emulation mode, and communicates over a single-conductor 1-Wire bus with unique 64-bit ROM ID.","TO-92, TSOC, SFN (6mm x 6mm), SFN (3.5mm x 6.5mm), TDFN-EP, UCSPR"
+UBX-16004908.pdf,,,
+WS2812.pdf,,,
